@@ -1,6 +1,3 @@
-import pandas as pd
-import os
-
 
 def main():
     print("This is a 'Test'!")
